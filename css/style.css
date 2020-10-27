@@ -1,0 +1,119 @@
+.list_inline {
+  display: inline-block;
+  list-style: none;
+}
+.list_inline li {
+  display: inline-block;
+  padding: 0 10px;
+}
+.margin_0 {
+  margin: 0px;
+}
+.wrapper {
+  width: 60%;
+  margin: auto;
+}
+h2 {
+  text-transform: uppercase;
+  font-size: 50px;
+  font-weight: bold;
+}
+
+/* header */
+header {
+  color: white;
+}
+header a {
+  color: white;
+}
+.header_top {
+  line-height: 80px;
+  background-color: #2C3E50;
+}
+.header_top h3 {
+  font-weight: bold;
+  line-height: 80px;
+}
+
+.header_bottom {
+  padding: 30px 0;
+  background-color: #1ABC9C;
+}
+.header_bottom h1 {
+  font-weight: bold;
+}
+.header_bottom img {
+  height: 250px;
+  text-align: center;
+}
+.divisor_ {
+  font-size: 20px;
+  display: block;
+}
+/* /header */
+
+/* main */
+/* portfolio */
+#portfolio h2
+#portfolio .divisor_ {
+ color: #2C3E50;
+}
+
+.portfolio_item {
+  height: 300px;
+  background-size: cover;
+  background-position: center;
+  border-radius: 5px;
+  margin-bottom: 30px;
+}
+
+.house_img {
+  background-image: url(http://startbootstrap.github.io/startbootstrap-freelancer/assets/img/portfolio/cabin.png);
+}
+.cake_img {
+  background-image: url(http://startbootstrap.github.io/startbootstrap-freelancer/assets/img/portfolio/cake.png);
+}
+.circus_img {
+  background-image: url(http://startbootstrap.github.io/startbootstrap-freelancer/assets/img/portfolio/circus.png);
+}
+.game_img {
+  background-image: url(http://startbootstrap.github.io/startbootstrap-freelancer/assets/img/portfolio/game.png);
+}
+.safe_img {
+  background-image: url(http://startbootstrap.github.io/startbootstrap-freelancer/assets/img/portfolio/safe.png);
+}
+.submarine_img {
+  background-image: url(http://startbootstrap.github.io/startbootstrap-freelancer/assets/img/portfolio/submarine.png);
+}
+/* portfolio */
+
+/* about */
+#about {
+  padding: 60px 0;
+  color: white;
+  background-color: #1ABC9C;
+}
+/* /about */
+
+/* contact */
+#contact {
+  padding: 60px 0;
+
+}
+/* contact */
+/* /main */
+
+/* footer */
+footer {
+  color: white;
+}
+/* top-footer */
+#top_footer {
+  padding: 30px 0;
+  background-color: #2C3E50;
+}
+/* footer bottom */
+#footer_bottom {
+  padding: 30px 0;
+  background-color: #1A252F;
+}
